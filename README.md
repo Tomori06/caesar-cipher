@@ -1,2 +1,2 @@
-# caesar-cipher
+# semestralne-zadanie-sifrovanie
 Cesarova sifra.
